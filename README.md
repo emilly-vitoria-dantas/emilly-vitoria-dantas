@@ -2,7 +2,6 @@
 
 <table>
   <a href="https://github.com/emilly-vitoria-dantas">
-  iv>
   <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=emilly-vitoria-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilly-vitoria-dantas&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="120" alt="Figma">
