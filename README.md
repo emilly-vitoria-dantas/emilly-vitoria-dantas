@@ -10,13 +10,12 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 <p>Valorizo muito a troca de experiências — aprender sozinha é bom, mas junto é ainda melhor. Sei que ainda tenho muito caminho pela frente, e isso me motiva todos os dias.</p>
 
 ##
-
-<br><br>
-
+<br>
 <div style="display: flex; gap: 20px; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilly-vitoria-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&hide_rank=false&line_height=30&locale=pt-BR" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilly-vitoria-dantas&layout=normal&langs_count=8&theme=tokyonight&hide_title=false&hide_border=false&locale=pt-BR" />
 </div>
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="HTML" width="120" src="https://img.icons8.com/color/2x/html-5.png">
