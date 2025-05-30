@@ -7,7 +7,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 
 <p>Gosto de aprender na prática, mesmo que no começo pareça difícil. Com foco e paciência, tudo começa a fazer sentido. A cada projeto, descubro um pouco mais do que sou capaz.</p>
 
-<p>Valorizo muito a troca de experiências — aprender sozinha é bom, mas junto é ainda melhor. Sei que ainda tenho muito caminho pela frente, e isso me motiva todos os dias.</p>
+<p>Valorizo muito a troca de experiências, aprender sozinha é bom, mas junto é ainda melhor. Sei que ainda tenho muito caminho pela frente, e isso me motiva todos os dias.</p>
 
 ##
 <br>
