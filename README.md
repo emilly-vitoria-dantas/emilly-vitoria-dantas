@@ -25,11 +25,12 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 
 ## Ferramentas
 <div style="display: inline_block"><br>
+  <img align="center" alt="Canva" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+    <img align="center" alt="Docker" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
-  <img align="center" alt="Docker" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="Idea" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg">
   <img align="center" alt="Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="Postgres" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
+   <img align="center" alt="Vscode" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
 </div>
 
 
