@@ -16,6 +16,8 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
   <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png">
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+
   <img align="center" alt="Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
