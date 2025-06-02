@@ -12,6 +12,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 ## 🧠 Linguagens 
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png">
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -24,7 +25,6 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Docker" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Idea" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg">
   <img align="center" alt="Postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
    <img align="center" alt="Postgres" height="50" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg">
