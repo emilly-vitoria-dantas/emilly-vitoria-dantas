@@ -9,7 +9,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 
 <p>Valorizo muito a troca de experiências, aprender sozinha é bom, mas junto é ainda melhor. Sei que ainda tenho muito caminho pela frente, e isso me motiva todos os dias.</p>
 
-<details open>
+<details>
 <summary><h2>💻 Linguagens</h2></summary>
 
 <div style="display: inline_block">
@@ -25,7 +25,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 </div>
 </details>
 
-<details open>
+<details>
 <summary><h2>🛠️ Ferramentas</h2></summary>
   
 <div style="display: inline_block">
@@ -39,7 +39,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 </div>
 </details>
 
-<details open>
+<details>
 <summary><h2>📊 Estatísticas e atividades</h2></summary>
 
 <h3>💻 Estatísticas de perfil do GitHub</h3>
