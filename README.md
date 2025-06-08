@@ -13,7 +13,8 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 <summary><h2>💻 Linguagens</h2></summary>
 
 <div style="display: inline_block">
- <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Excel" height="70" width="70" src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png">
+  <img align="center" alt="Git" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="HTML" height="50" width="50" src="https://img.icons8.com/color/2x/html-5.png">
   <img align="center" alt="CSS" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png">
   <img align="center" alt="Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
