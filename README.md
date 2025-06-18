@@ -43,7 +43,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 <h3>💻 Estatísticas de perfil do GitHub</h3>
 <br>
 <div style="display: flex; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilly-vitoria-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=false&hide_border=false&hide_rank=false&line_height=30&locale=pt-BR" />
+ <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=emilly-vitoria-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-BR"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilly-vitoria-dantas&layout=normal&langs_count=8&theme=tokyonight&hide_title=false&hide_border=false&locale=pt-BR" />
 </div>
 
