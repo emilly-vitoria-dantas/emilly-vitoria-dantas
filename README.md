@@ -10,7 +10,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 <p>Valorizo muito a troca de experiências, aprender sozinha é bom, mas junto é ainda melhor. Sei que ainda tenho muito caminho pela frente, e isso me motiva todos os dias.</p>
 
 <details>
-<summary><h2>💻 Linguagens</h2></summary>
+<summary><h2>Linguagens</h2></summary>
 
 <div style="display: inline_block">
   <img align="center" alt="Excel" height="70" width="70" src="https://static.vecteezy.com/system/resources/previews/022/100/783/non_2x/microsoft-excel-logo-transparent-free-png.png">
@@ -24,7 +24,7 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 </details>
 
 <details>
-<summary><h2>🛠️ Ferramentas</h2></summary>
+<summary><h2>Ferramentas</h2></summary>
   
 <div style="display: inline_block">
   <img align="center" alt="Canva" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
@@ -38,16 +38,16 @@ Estudante dedicada e entusiasmada pelo universo do desenvolvimento! Estou sempre
 </details>
 
 <details>
-<summary><h2>📊 Estatísticas e atividades</h2></summary>
+<summary><h2>Estatísticas e atividades</h2></summary>
 
-<h3>💻 Estatísticas de perfil do GitHub</h3>
+<h3>Estatísticas de perfil do GitHub</h3>
 <br>
 <div style="display: flex; gap: 20px; justify-content: center;">
  <img height="180mm" src="https://github-readme-stats.vercel.app/api?username=emilly-vitoria-dantas&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-BR"/>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilly-vitoria-dantas&layout=normal&langs_count=8&theme=tokyonight&hide_title=false&hide_border=false&locale=pt-BR" />
 </div>
 
-<h3>📈 Gráfico de contribuições</h3>
+<h3>Gráfico de contribuições</h3>
 <br>
 <div style="display: flex; gap: 20px; justify-content: center;>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
